@@ -39,7 +39,7 @@ The gender breakdown shows that 65% of the users are male compared to 25% female
 
 ## Summary 
 
-The NYC data results tend to indicate there is a solid business for bike sharing by subscribers in a metropolitan area.  The population for Des Moines should be compared to understand the male/female ratio as well as the number of people working in the metro area.  Two additional visualizations for future analysis would be to highlight revenue and profit generated to compare to the repair costs for the bikes.  An additional visualization would be to review bikes used vs bikes returned to understand if "lost" bikes are an issue.
+The NYC data results tend to indicate there is a solid business for bike sharing by subscribers in a metropolitan area.  The population for Des Moines should be compared to understand the male/female ratio as well as the number of people working in the metro area.  Two additional visualizations for future analysis would be to highlight revenue and profit generated in addition to the repair costs for the bikes.  An additional visualization would be to review bikes used vs bikes returned to understand if "lost" bikes are an issue.
 
 
 ## Tableau Story
